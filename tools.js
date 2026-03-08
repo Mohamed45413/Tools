@@ -1,4 +1,4 @@
-;(function (root, factory) {
+(function (root, factory) {
   if (typeof module === "object" && typeof module.exports === "object") {
     module.exports = factory();
   }
@@ -85,7 +85,7 @@
         years,
         months: Math.floor(days / 30),
         week: Math.floor(days / 7),
-        days,
+        days:days%30,
         hours,
         minutes,
         seconds
