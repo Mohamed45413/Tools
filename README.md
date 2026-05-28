@@ -1,7 +1,7 @@
 # 🛠 Tools Library
 
 ```html
-<script src="https://raw.githack.com/Mohamed45413/Tools/refs/heads/main/tools.js"></script>
+<script src="https://raw.githack.com/Mohamed45413/Tools/refs/heads/main/tools.min.js"></script>
 ```
 The Tools Library provides a collection of useful JavaScript utility functions that you can easily include in your project and share with others
 
